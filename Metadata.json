@@ -1,0 +1,20 @@
+{
+    "Author": "Jorge de Almeida Pinto [MVP]",
+    "ContentSize": 32185,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/installing-azure-ad-password-protection-dc-agent/master/AAD-Password-Protection-Install-DC-Agent.ps1",
+    "DownloadCount": 255,
+    "Id": "Installing-Azure-AD-a67d22a0",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 464,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-10-25T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "WARNING: Due to retirement of Technet Script Gallery, migrated to:https://github.com/zjorz/Public-AAD-Scripts/blob/master/AAD-Password-Protection-Install-DC-Agent.ps1With this PoSH script, one can install The Azure AD Password Protection DC Agent on a all RWDCs in the AD domain o",
+    "Title": "Installing Azure AD Password Protection DC Agent",
+    "UpdatedDate": "2020-4-3T00:00:00",
+    "Url": "https://github.com/azureautomation/installing-azure-ad-password-protection-dc-agent",
+    "UserTags": "Azure AD Password Protection, Azure AD Password Protection DC Agent"
+}
